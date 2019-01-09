@@ -24,6 +24,10 @@
 		console.log(arr);
 		// ['a', 'b', 'c', 'd', 'e', 'f']
 
+	Objects: collection of primitive data types; (string, number, null, undefined, bollean)
+
+	object can be accesed using dot notation or using brackets ([]) like an array
+
 */
 
 
@@ -31,7 +35,7 @@ var globalVariable = "global"; //global variable
 
 /*
 Global Function
-*/
+*/	
 function globalFunction() {
 	var insideFunction = "FuctionScope";
 
