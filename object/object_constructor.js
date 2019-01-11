@@ -1,6 +1,10 @@
 /*
 
 Defining object constructor
+
+find out the parent object 
+
+print key and value of the both parent and own property
 */
 
 

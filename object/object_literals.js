@@ -33,6 +33,8 @@ console.log(Person.fullName());
 
 console.log(Person.body.height);
 
+console.log("isMarried" in Person);
+
 
 //Reference Data type
 let year = 2019;
